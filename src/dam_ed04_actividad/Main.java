@@ -12,7 +12,7 @@ public class Main {
     operativa_cuenta();
     }
     public static void operativa_cuenta(){
-        
+        double random;
         float cantidad;
         CCuenta cuenta1;
         double saldoActual;
